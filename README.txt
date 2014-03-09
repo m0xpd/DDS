@@ -5,6 +5,9 @@ low-cost Direct Digital Synthesis ('DDS') Modules,
 based on the Analog Devices 9850 chip 
 on the Arduino.
 
+For more information:
+http://m0xpd.blogspot.co.uk/2014/03/dds-and-duedds-libraries.html
+
 Four IO lines are required to connect to the AD9850 module... 
 (W_CLK, FQ_UD, DATA & RESET).
 
