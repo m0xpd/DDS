@@ -1,2 +1,3 @@
-DueDDS	KEYWORD1
-setFrequency	KEYWORD
+DDS	KEYWORD1
+setFrequency	KEYWORD2
+trim  KEYWORD2
