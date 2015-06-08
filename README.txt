@@ -14,3 +14,7 @@ Four IO lines are required to connect to the AD9850 module...
 To download and use this Library, click the Download ZIP button (on the RHS of this screen). 
 Uncompressed the downloaded ZIP archive and rename the folder DDS.
 Put this DDS folder in you Arduino Libraries folder and restart the Arduino IDE.
+
+To control multiple DDS Modules, see here:
+http://m0xpd.blogspot.co.uk/2015/06/handling-two-dds-modules-in-library.html
+
